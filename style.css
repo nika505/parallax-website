@@ -69,12 +69,11 @@ section{
     font-size: 3rem;
 }
 section h1{
-    margin-top: 5%;
-    margin-bottom: 7%;
+    margin-top: 2%;
+    margin-bottom: 3%;
 }
 section h3{
-    margin-top: 5%;
-    margin-bottom: 7%;
+    margin-top: 2%;
 }
 @media  (max-width:768px){
     section h1{
@@ -88,5 +87,13 @@ section h3{
         width:80%;
         overflow: auto;
         text-align: left;
+    }
+    section h1{
+        margin-top: 5%;
+        margin-bottom: 7%;
+    }
+    section h3{
+        margin-top: 5%;
+        margin-bottom: 4%;
     }
 }
